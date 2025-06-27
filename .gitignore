@@ -1,2 +1,5 @@
 .venv
 playlists.txt
+downloaded_playlists/
+*.html
+*.log
